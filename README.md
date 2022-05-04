@@ -9,4 +9,4 @@ _В проекте использованы следующие технолог�
 2. CSS (адаптивная верстка)
 
 _Ссылка на страницу с проектом на Github Pages_
-https://maxim-zhosan.github.io/russian-travel/
+https://maxim-zhosan.github.io/russian-travel/index.html
