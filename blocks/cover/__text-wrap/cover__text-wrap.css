@@ -1,0 +1,4 @@
+.cover__text-wrap {
+  display       : flex;
+  flex-direction: column;
+}

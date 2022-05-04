@@ -1,0 +1,15 @@
+.header__lang-link-wrap {
+  text-decoration      : none;
+  text-underline-offset: 0.2em;
+  border-bottom        : 2px solid #FFFFFF;
+  transition           : border-color 0.5s ease;
+}
+
+.header__lang-link-wrap:last-of-type:hover {
+  border-color: #FFFFFF;
+
+}
+
+.header__lang-link-wrap:last-of-type {
+  border-bottom: 2px solid transparent;
+}
