@@ -10,6 +10,7 @@
     padding   : 92px 0 92px;
     padding-left: calc((100vw - 928px)/2);
   }
+}
 
 @media (max-width: 1023px) {
   .places {
